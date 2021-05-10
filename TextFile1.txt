@@ -1,2 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL
+仓库=工作区
+.git文件=版本库
